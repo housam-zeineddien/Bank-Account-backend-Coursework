@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Housam\source\repos\CourseWork\CourseWork\Source.cpp(25,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Housam\source\repos\CourseWork\CourseWork\Source.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Housam\source\repos\CourseWork\CourseWork\Source.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+  CourseWork.vcxproj -> C:\Users\Housam\source\repos\CourseWork\Debug\CourseWork.exe
